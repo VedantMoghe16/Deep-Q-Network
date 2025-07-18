@@ -16,6 +16,4 @@ The solution uses a DQN agent with experience replay and target network. The key
 The agent is trained using a variant of the Q-learning algorithm that incorporates deep learning for function approximation.
 
 ## Results
-![Agent Performance](agent_performance.gif)
-
 The trained agent achieved an average reward of 185.08 over 100 test episodes, demonstrating its ability to effectively solve the CartPole-v1 environment.
